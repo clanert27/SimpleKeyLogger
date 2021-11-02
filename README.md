@@ -17,9 +17,9 @@ or
   pip3 install pyxhook
 ```
 
-### How to run it
+## How to run it
 
-By running `nohup python3 keylogger.py &` command, it'll start to log your strokes:
+### By running `nohup python3 keylogger.py &` command, it'll start to log your strokes:
 The meaning of nohup is ‘no hangup‘.
 When nohup command use with ‘&’ then it doesn’t return to shell command prompt after running the command in the background. 
 ---
@@ -31,7 +31,7 @@ Stop it by typing the command `fg` then hitting `CTRL+C`
 
 or
 
-`kill {PID}` for example `kill 12529`
+`kill {PID}` for example `kill 4372`
 
 #### SAMPLES
 ---
