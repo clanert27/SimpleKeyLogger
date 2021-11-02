@@ -17,7 +17,7 @@ or
   pip3 install pyxhook
 ```
 
-## How to run it
+### How to run it
 
 By running `nohup python3 keylogger.py &` command, it'll start to log your strokes:
 The meaning of nohup is ‘no hangup‘.
